@@ -1,1 +1,1 @@
-# Front-end totalmente componentizado na prática com ReactJS
+# Front-end totalmente componentizado com ReactJS
